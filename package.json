@@ -2,7 +2,6 @@
   "private": true,
   "workspaces": [
     "packages/@okta/*"
-    
   ],
   "scripts": {
     "dev": "yarn workspace @okta/vuepress-site dev",
